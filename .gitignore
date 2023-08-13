@@ -16,3 +16,6 @@
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+
+playlist-.json
+.env
