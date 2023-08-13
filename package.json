@@ -1,0 +1,10 @@
+{
+  "name": "youtube-playlist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "googleapis": "^124.0.0"
+  }
+}
